@@ -65,6 +65,7 @@ Keyboards:
 - Razer BlackWidow X Chroma
 - Razer BlackWidow X Chroma Tournament Edition
 - Razer BlackWidow X Chroma Ultimate
+- Razer BlackWidow V4 PRO
 - Razer BlackWidow V4 75%
 - Razer Cynosa Chroma
 - Razer Cynosa Lite
