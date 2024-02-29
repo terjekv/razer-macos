@@ -1,0 +1,21 @@
+{
+    "name": "Razer BlackWidow V4 PRO",
+    "productId": "0x028D",
+    "mainType": "keyboard",
+    "image": "https://azerty.nl/media/catalog/product/g/i/gi4ifR.5010219_06742da53eb38b6a14ce2a73eb44f154-d632f228.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+    "features": null,
+    "featuresConfig": [
+      {
+        "ripple": {
+            "rows": 6,
+            "cols": 24
+        }
+      },
+      {
+        "wheel": {
+            "rows": 6,
+            "cols": 24
+        }
+      }
+    ]
+  }
