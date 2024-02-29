@@ -1,3 +1,4 @@
+<meta name="msvalidate.01" content="62243DA724E3CF411BD1E31EBA2175E1" />
 <p align="center">
   <img src="resources/hero.png" alt="keyboard demo pic" />
   <p align="center">Open source color effects manager for Razer devices on macOS</p>
@@ -37,8 +38,6 @@ Please see FAQ section below if color changes are not working, otherwise open a 
 - 🔊 Speakers
 - 🍺 Mug
 - ⭐️ And More
-
-For a complete list of supported devices, please see [openrazer](https://openrazer.github.io).
 
 Confirmed working for:
 
