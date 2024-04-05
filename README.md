@@ -134,6 +134,7 @@ Mice:
 - Razer Naga Left Handed 2020
 - Razer Naga Pro (wired and wireless)
 - Razer Naga Trinity
+- Razer Naga X
 - Razer Orochi 2011
 - Razer Orochi 2013
 - Razer Orochi Chroma
